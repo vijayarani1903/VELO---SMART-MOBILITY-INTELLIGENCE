@@ -1,0 +1,14 @@
+[client]
+toolbarMode = "viewer"
+
+[theme.light]
+primaryColor = "#14b8a6"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f0f4f8"
+textColor = "#172033"
+
+[theme.dark]
+primaryColor = "#14b8a6"
+backgroundColor = "#0b1220"
+secondaryBackgroundColor = "#162338"
+textColor = "#f1f5f9"
